@@ -14,6 +14,8 @@ Output
 
 In kết quả trên một dòng.
 
+Ví dụ 
+
 Input
 
 24
